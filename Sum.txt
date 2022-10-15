@@ -1,0 +1,10 @@
+func sum(num: Int,num2: Int)  -> Int
+{
+let S=num+num2
+
+
+return S                                                                                 
+}
+
+
+print("The sum=", sum(num:5,num2:10) )
